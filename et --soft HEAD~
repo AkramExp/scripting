@@ -1,0 +1,35 @@
+[33mcommit 45ae5e29a7ba46181b39b5bbd5f0dac9d7c4f1e9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Akram Ali <akram.exp02@gmail.com>
+Date:   Thu Jul 20 19:09:51 2023 +0530
+
+    script to create multiple files with user input
+
+[33mcommit 8639422e5f2c71139600c13fc53ee33a3576f1ed[m
+Author: Akram Ali <akram.exp02@gmail.com>
+Date:   Thu Jul 20 18:50:09 2023 +0530
+
+    script to backup file system
+
+[33mcommit 8447a089bd83e93787068177b46cbd3d132361be[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Akram Ali <akram.exp02@gmail.com>
+Date:   Thu Jul 20 18:35:31 2023 +0530
+
+    Script to delete files older than 90 days
+
+[33mcommit 1b20bd0b29073c248289eda13307593609f171b9[m
+Author: Akram Ali <akram.exp02@gmail.com>
+Date:   Thu Jul 20 18:35:01 2023 +0530
+
+    Update ping-script.sh
+
+[33mcommit 90bd15855a9bc9f174ee66cfeea25e4e952fc5b0[m
+Author: Akram Ali <akram.exp02@gmail.com>
+Date:   Thu Jul 20 18:30:07 2023 +0530
+
+    Script to ping the servers from myhosts file
+
+[33mcommit 8012526600ffe86d1ce7c2f62fea271a74f65792[m
+Author: Akram Ali <akram.exp02@gmail.com>
+Date:   Wed Jul 19 20:18:02 2023 +0530
+
+    Added basic scripts
