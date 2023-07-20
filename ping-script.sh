@@ -1,4 +1,5 @@
 #!/bin/bash
+# Description: Ping servers in myhosts file
 
 hosts="/home/akram/Documents/DevOps/Scripts/myhosts"
 
