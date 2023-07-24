@@ -1,0 +1,11 @@
+#!/bin/bash
+# Decription: this script will log only defined keywords
+
+tail -fn0 /var/log/messages | while read line
+do
+	echo $line | egrep -i "refused|invalid|error|fail|lost|shut|down|offline"
+	if [ $? = 0 ]
+	then
+		echo $line >> /tmp/filtered-messages
+	fi
+done
